@@ -1,0 +1,39 @@
+{
+  "list": [
+    {
+      "projectRole": null,
+      "company": "This Business Card Website",
+      "period": "March 2026",
+      "description": "Actually, this is my first Flutter Web project! Created in collaboration with the Gemini plugin in Android Studio. Deployed to GitHub Pages using Makefile. The tech stack might seem excessive for such a small project, but what else are pet projects for if not for this? :)",
+      "stack": "Clean Architecture, Gemini, Flutter, Dart, BLoC/Cubit, Freezed, Flutter Gen (L10n)"
+    },
+    {
+      "projectRole": "Flutter Developer",
+      "company": "NAN Agency",
+      "period": "March 2025 — Present",
+      "description": "Greenway Project\n\n• Integrated Kaspi.kz and Flitt payment systems, expanding payment instrument coverage for users.\n\n• Conducted refactoring and redesign of legacy application screens, which accelerated interface performance and improved UX.\n\n• Participated in the full development cycle: decomposition, estimation, feature development, and subsequent bug fixing.",
+      "stack": "GetX, GetIt, Dio, Android Studio, Postman, Figma"
+    },
+    {
+      "projectRole": "Flutter Developer",
+      "company": "SOKOLOV",
+      "period": "January 2023 — October 2024 (1 year 10 months)",
+      "description": "\"Showcase\" Stream (product catalog, cart, product cards)\n\n• Implemented Firebase Performance. Independently configured metric collection, which allowed the team to identify and eliminate performance issues on catalog screens and product cards.\n\n• Reorganized the project architecture. Extracted the \"Showcase\" stream code into a separate package, which reduced build time and simplified code maintenance for the entire team.\n\n• Participated in the development and implementation of the dark theme in the application, coordinating UI states with designers.\n\n• Worked in a cross-functional team: participated in decomposition, prioritization, and task estimation together with PO, analyst, and backend developers.",
+      "stack": "Flutter, Dart, BLoC, Freezed, Android Studio, Xcode, Postman, GitLab, Figma"
+    },
+    {
+      "projectRole": "Flutter Developer",
+      "company": "Crypton Studio",
+      "period": "August 2021 — January 2023 (1 year 6 months)",
+      "description": "Projects: cryptocurrency wallet, crypto exchange, smart car application\n\n• Developed the client-side for Android and iOS mobile applications in product teams.\n\n• Participated in feature architecture design and task decomposition.\n\n• Conducted code refactoring, implementing SOLID principles and following Clean Architecture.",
+      "stack": "GetX, MobX, BLoC, GetIt, Dio, GoRouter, Android Studio, Xcode, Figma"
+    },
+    {
+      "projectRole": "Junior System Analyst",
+      "company": "Improvado",
+      "period": "January 2021 — July 2021 (7 months)",
+      "description": "• Researched and tested APIs of marketing platforms based on client requests.\n\n• Compiled technical specifications for developers.\n\n• Wrote SQL queries to verify data accuracy.\n\n• Generated quarterly employee performance reports by importing data from Jira to Google Sheets.",
+      "stack": "SQL, Redash, Kibana, Postman, Google Sheets, Jira, Python"
+    }
+  ]
+}
